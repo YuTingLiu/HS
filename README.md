@@ -1,11 +1,11 @@
 # HS
 代码结构：
 src.main.java.
-    dataStr.FileObject:定义一个数据结构{url,data}
+    dataStr.FileObject:定义一个数据结构{url,data}\r\n
     RedisUtil.
-             UrlCheck:host检查主类
-             IRedisOperater:批量获取Redis集群数据接口
-             RedisOperator:接口实现
+             UrlCheck:host检查主类\r\n
+             IRedisOperater:批量获取Redis集群数据接口\r\n
+             RedisOperator:接口实现\r\n
 
     Util.
         BlockingQ:定义一个消息队列接口
