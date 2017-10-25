@@ -1,6 +1,6 @@
 # HS
 代码结构：
-src.main.java:
+src.main.java.
     dataStr.FileObject:定义一个数据结构{url,data}
     RedisUtil.
              UrlCheck:host检查主类
